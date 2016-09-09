@@ -1,0 +1,54 @@
+<h1 align+center>webpage by kenyan </h1>
+
+This is <b> bold</b> This is <i>italic</i>
+
+
+<input type=button value="click me" onclick="{
+ alert}">
+
+
+<table border=1>
+ <tr> <td>1 </td>   <td>2 </td>  </tr>
+ <tr> <td>2 </td>   <td>23 </td>  </tr>
+ </table>
+
+<ol>
+ <li> Hello
+ <li> Hi
+</ol>
+
+Here is a link to <a href="http://google.ca">google.ca</a><br>
+
+
+<input type=checkbox>
+<input type=radio>
+<br>
+<input type=file><br>
+]
+<input type=hidden value="strange"<textarea>Here</textarea>
+<br>
+<textarea>A paragraph</textarea>
+<select>
+<option> one
+<option> two
+</select>
+<br>
+
+
+Type name here: <br>
+<input type=text value="kenyan">
+<br>
+
+<br>
+<img src="Koala.jpg" style="max-width:100%" alt="Koala">
+<br>
+
+<div style="background-color:LightBlue;width:200px;border:1px solid black;padding:15px;">
+<p>"HERE IS A BLUE BOX"<p/>.
+<br>
+
+<kt> abcdefg </kt>
+<br>
+<br>
+<h>Im not sure how to end the blue box<h/>
+
